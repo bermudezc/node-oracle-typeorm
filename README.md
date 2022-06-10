@@ -1,5 +1,8 @@
 # Awesome Project Build with TypeORM
 
+importante con oracle usar esm6 en Target 
+
+
 Steps to run this project:
 
 1. Run `npm i` command

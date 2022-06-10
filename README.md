@@ -1,6 +1,6 @@
 # Awesome Project Build with TypeORM
 
-importante con oracle usar esm6 en Target 
+##importante con oracle usar esm6 en Target en tsconfig.json
 
 
 Steps to run this project:
